@@ -1,0 +1,22 @@
+Musique:
+
+BGM-horreur (Main Menu)
+Mystical Theme by
+Alexandr Zhelanov, 
+https://soundcloud.com/alexandr-zhelanov
+https://opengameart.org/content/mystical-theme 
+
+BMG stress (game bmg)
+Dark Ambience Loop by 
+Iwan Gabovitch 
+http://opengameart.org/users/qubodup
+
+BGCombat (mixed in Main menu music)
+World War 1 Trench warfare battlefield sounds by
+paulbogush
+https://freesound.org/people/paulbogush/sounds/345723/
+
+GameOver
+Horror Screams Drone by
+LogLogGames
+https://opengameart.org/content/horror-screams-drone 
